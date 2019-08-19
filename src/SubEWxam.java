@@ -4,6 +4,8 @@ public class SubEWxam {
 			int a=20,b=40;
 			
 			System.out.println(a-b);
+			System.out.println(a+b);
+
 		}
 
 }
